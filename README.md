@@ -1,24 +1,13 @@
-# README
-
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
+# CODING TEST PROJECT
 
 * Ruby version
+3.2.2
 
-* System dependencies
+## Installation
+bundle install
 
-* Configuration
+## Testing
+rspec
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+### Summary
+Created the model, the implementation of soft delete methods, application of default scopes, and thorough testing to validate the functionality.

@@ -65,3 +65,13 @@ group :test do
   gem "capybara"
   gem "selenium-webdriver"
 end
+
+group :development, :test do
+  # Use system rspec-rails testing
+  gem 'rspec-rails', '~> 5.0'
+end
+
+group :test do
+  # Use system factory_bot_rails testing
+  gem 'factory_bot_rails', '~> 6.4.2'
+end
