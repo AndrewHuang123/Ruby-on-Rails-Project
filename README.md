@@ -1,5 +1,3 @@
-# Ruby-on-Rails-Project
-Ruby on Rails Project
 # CODING TEST PROJECT
 
 * Ruby version
